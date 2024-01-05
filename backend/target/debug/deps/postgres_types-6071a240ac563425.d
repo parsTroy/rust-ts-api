@@ -1,0 +1,9 @@
+/Users/troyparsons/Documents/Developer/vsCode/full-stack-rust-rest-api/backend/target/debug/deps/libpostgres_types-6071a240ac563425.rmeta: /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/lib.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/pg_lsn.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/private.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/special.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/type_gen.rs
+
+/Users/troyparsons/Documents/Developer/vsCode/full-stack-rust-rest-api/backend/target/debug/deps/postgres_types-6071a240ac563425.d: /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/lib.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/pg_lsn.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/private.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/special.rs /Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/type_gen.rs
+
+/Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/lib.rs:
+/Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/pg_lsn.rs:
+/Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/private.rs:
+/Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/special.rs:
+/Users/troyparsons/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/type_gen.rs:
